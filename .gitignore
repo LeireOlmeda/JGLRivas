@@ -1,0 +1,12 @@
+# Originales descargados: pesan ~1,6 GB y no se redistribuyen en el repositorio.
+datos/jgl-rivas/pdf/
+# Intermedios y basura de ejecución
+*.part
+*.part.*
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+scratch_*
+Rprof.out
