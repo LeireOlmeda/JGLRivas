@@ -65,7 +65,7 @@ Rscript scraping-juntas-gobierno/tests/probar_parsers.R
   (incluye `texto/`, `sesiones/`, `analisis/` e `indice.csv`):
 
 ```r
-restaurar_datos("https://github.com/<usuario>/<repo>/releases/download/v1.0/datos-jgl-rivas.zip")
+restaurar_datos("https://github.com/LeireOlmeda/JGLRivas/releases/download/v1.0/datos-jgl-rivas.zip")
 ```
 
 ## Procedencia y estado

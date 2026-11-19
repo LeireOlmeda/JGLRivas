@@ -77,7 +77,7 @@ defecto de `jgl_cfg()` es un marcador: **no lo dejes así en una ejecución cont
 Si los datos no están en local (clon nuevo), el snapshot del release los restaura sin redescargar:
 
 ```r
-restaurar_datos("https://github.com/<usuario>/<repo>/releases/download/v1.0/datos-jgl-rivas.zip")
+restaurar_datos("https://github.com/LeireOlmeda/JGLRivas/releases/download/v1.0/datos-jgl-rivas.zip")
 ```
 
 Los PDF originales no viajan en el repositorio; la skill los vuelve a descargar de la web.
